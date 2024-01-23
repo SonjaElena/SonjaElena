@@ -1,6 +1,6 @@
 ![Header image](https://raw.githubusercontent.com/SonjaElena/SonjaElena/master/header.jpeg)
 
-I'm a science/software enthusiast who loves to learn about new things.
+I'm a science/software enthusiast who loves to learn new things.
 
 Take a look at my repositories and let's get in touch!
 
